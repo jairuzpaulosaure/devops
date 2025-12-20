@@ -19,3 +19,5 @@ Step 11 : then refresh github page, the files should be already there
 Step 12 : create dev branch
 Step 13 : push dev
 Step 14 : open pull request
+
+Step 15 : repeat the steps from Step 7 - 14 daily (this is checking if I can do it again since I will be always doing this everyday)
