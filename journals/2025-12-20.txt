@@ -1,3 +1,21 @@
 Journal Entry - Saturday, December 20, 2025
 Week: 8
 Message: Stay consistent, keep learning!
+Learnings: Pull requests, Create Github Repo and Create branch
+
+
+
+Step 1 :  Create new repo in Github
+Step 2 :  make sure that you are in the main folder directory do cd ....
+Step 3 :  check the current files - use the ls -alh
+Step 4 :  if the .git exists - to remove use this syntax : rm -rf .git
+Step 5 :  initial git locally - use this syntax : git init, git branch -M main
+Step 6 :  set identity
+Step 7 :  do the first commit
+Step 8 :  connect to github repo
+Step 9 :  verify using the git remote -v
+Step 10 : push to github ----- git push -u origin main
+Step 11 : then refresh github page, the files should be already there
+Step 12 : create dev branch
+Step 13 : push dev
+Step 14 : open pull request
