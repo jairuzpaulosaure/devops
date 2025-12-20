@@ -1,0 +1,9 @@
+Journal Entry - Tuesday, December 02, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: Today I learned IP Addressing (IPv4 and IPv6)
+Commands:
+
+ip addr and ip a is just the same output
+- complete IP address and network interface details
+ip link - smaller portion of network details

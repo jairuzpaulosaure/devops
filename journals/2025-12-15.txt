@@ -1,0 +1,10 @@
+Journal Entry - Monday, December 15, 2025
+Week: 7
+Message: Stay consistent, keep learning!
+Learnings: Be fully comfortable with Git.
+		
+git add			select files
+git commit		save snapshots
+git status		check progress
+
+

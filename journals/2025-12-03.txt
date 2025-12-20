@@ -1,0 +1,18 @@
+Journal Entry - Wednesday, December 03, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: Today I learned about subnetting basics
+
+Importants:
+
+Private Networks (the rest not here is public)
+Huge Network
+10.0.0.0 -> 10.255.255.255
+
+Medium Network
+172.16.0.0 -> 172.31.255.255
+
+Small Network
+192.168.0.0 -> 192.168.255.255
+
+

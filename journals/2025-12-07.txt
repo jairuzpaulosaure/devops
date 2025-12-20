@@ -1,0 +1,43 @@
+Journal Entry - Sunday, December 07, 2025
+Week: 6
+Message: Stay consistent, keep learning!
+Learning: Review and Light Practice 
+
+IP Basics
+IPv4: 32-bit
+IPv6: 128-bit
+Private IP ranges:
+	10.0.0.0   	-	 10.255.255.255
+	172.16.0.0 	-	 172.31.255.255
+	192.168.0.0	- 	 192.168.255.255
+
+Ports
+22	=	SSH
+80	=	HTTP
+443	=	HTTPS
+3306	=	MySQL
+
+DNS Records
+A	=	IPv4
+AAA	=	IPv6
+CNAME	=	alias
+MX	=	email
+TXT	=	verification/config
+
+
+HTTP Codes
+200	=	ok
+301	=	redirect
+404	=	not found
+500	=	server error
+
+
+Commands
+ip a		=	show interfaces
+ss -tuln	=	show listening ports
+dig		=	DNS lookup
+curl -I		=	check HTTP headers
+ping		=	reachability
+traceroute	=	packet travel path
+
+ 

@@ -1,0 +1,6 @@
+Journal Entry - Wednesday, December 10, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: I have learned the troubleshooting tools
+
+ping, curl, wget

@@ -1,0 +1,6 @@
+Journal Entry - Monday, December 08, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: During this day, I have learned about the Firewall.
+
+- UFW, iptables concepts

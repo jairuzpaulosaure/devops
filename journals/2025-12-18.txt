@@ -1,0 +1,28 @@
+Journal Entry - Thursday, December 18, 2025
+Week: 7
+Message: Stay consistent, keep learning!
+Learnings:
+
+Merging
+
+
+make sure first that you are in the main branch
+git switch main <name of the main branch>
+
+
+then check git status first to know if there is uncommit changes
+if yes, do git commit
+
+if already okay
+
+do the merging now
+git merge dev
+
+
+to resolve conflicts just do the git add <file / folders> then
+git commit
+
+
+to check the merged history
+git log --oneline --graph --all
+

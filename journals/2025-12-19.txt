@@ -1,0 +1,33 @@
+Journal Entry - Friday, December 19, 2025
+Week: 7
+Message: Stay consistent, keep learning!
+Learnings: 
+
+
+git clone <github link>
+git clone https://github.com/git/git.git
+
+
+after cloning - change the directory
+cd <name of the new clone git
+cd <git>
+
+then check all the folder structure (view)
+ls -alh (list all files, including hidden files with long format, displayed as human readable sizes)
+
+
+then check the repository status
+git status
+
+then view commit history
+git log --oneline -5
+(git log - shows commit history)
+(--one line - short format)
+(-5 -- show last 5 commits)
+
+
+then see the remote info
+git remove -v (v = verbose)
+
+you should see a [fetch and push]
+

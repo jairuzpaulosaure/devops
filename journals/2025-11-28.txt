@@ -1,0 +1,4 @@
+Journal Entry - Friday, November 28, 2025
+Week: 3
+Message: Stay consistent, keep learning!
+Learnings: Today I learned how to test SSH connections and transfer files to server. (Eg. journals.txt) That file is my practice today hehe

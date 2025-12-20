@@ -1,0 +1,142 @@
+DevOps Mini-Project Documentation
+(AWS EC2 + Apache2 + Automation + Journals)
+
+1. Project Overview
+This mini-project sets up a simplel linux web server hosted on AWS EC2.
+It includes:
+ - Apache2 web server
+ - Folder structure for a personal DevOps journal
+ - Automated daily script (via cron)
+ - SSH practice
+ - File transfer practice (SCP)
+
+2. Server Information
+ - Cloud Provider: AWS EC2
+ - Instance 0S: Ubuntu 22.04 LTS
+ - Instance TYpe: t2.micro (Free Tier)
+ - Public IP: 3.27.77.139
+ - Main Project Folder: /var/www/jairuzsaure_devopssite
+
+
+3. Director Structure
+
+ /var/www/jairuzsaure_devopssite
+ |----- index.html or index.php
+ |----- journal_viewer.php
+ |----- update_site.sh
+ |----- journals/
+
+4. Users Created
+
+Viewer user:
+sudo adduser viewer --disabled-password
+
+Editor user:
+sudo adduser editor --disabled-password
+sudo usermod -aG www-data editor
+
+5. Permissions Set
+
+sudo chown -R ubuntu:www-data /var/www/jairuzsaure_devopssite
+sudo chmod -R 775 /var/www/jairuzsaure_devopssite
+
+Purpose:
+chown -> gives onwership to ubuntu + www-data
+chmod 775 -> owner and group can read/write/execute, others read/execute
+
+
+6. Installing Apache2
+
+- sudo apt update
+- sudo apt install apache2
+- sudo systemctl start apache2
+- sudo systemctl enable apache2
+- sudo systemctl status apache2
+
+7. Creating Main Website File
+
+index.html
+echo "<h1>Hello from Jairuz's DevOps Site!</h1>" | sudo tee /var/www/jairuzsaure_devopssite/index.html
+ 
+
+8. Creating Journal Viewer Page
+
+jouurnal_viewer.php:
+<?php
+$files = glob("journals/*.txt");
+rsort($files);
+foreach($files as $file){
+    echo "<li><a href='$file'>" . basename($file) . "</a></li>";
+}
+?>
+
+
+9. Daily Automation Script
+
+update_site.sh
+#!/bin/bash
+DATE=$(date +"%Y-%m-%d")
+TIME=$(date +"%H:%M:%S")
+WEEK="Week 3 of DevOps Practice"
+
+echo "📘 DevOps Journal - $DATE" > /var/www/jairuzsaure_devopssite/journals/$DATE.txt
+echo "Time generated: $TIME" >> /var/www/jairuzsaure_devopssite/journals/$DATE.txt
+echo "Status: Practicing DevOps!" >> /var/www/jairuzsaure_devopssite/journals/$DATE.txt
+
+
+make it execuatable:
+sudo chmod +x /var/www/jairuzsaure_devopssite/update_site.sh
+
+
+10. Cron Automation
+
+Edit cron:
+crontab -e
+
+Add:
+0 4 * * * /var/www/jairuzsaure_devopssite/update_site.sh
+
+Meaning:
+ - Runs daily
+ - At 4:00 AM server time (UTC) but I translated it to PH time - 8 AM
+
+11. SSH Practice
+
+Conncet to EC2:
+ssh -i mykey.pem ubuntu@3.27.77.139
+
+
+12. SCP File Transfer Practice
+
+Upload file:
+scp -i mykey.pem file.txt ubuntu@3.27.77.139:/var/www/jairuzsaure_devopssite/
+
+Upload folder:
+scp -r -i mykey.pem notes/ ubuntu@3.27.77.139:/var/www/jairuzsaure_devopssite/
+
+
+13. Issues Encountered and Fixed
+
+1. "event not found"
+Cause: ! triggered Bash history expansion
+Fix: use single quotes '' or disbale expansion
+
+set +H
+
+2. PHP not running
+Cause: file saved as .html
+Fix: rename to .php
+
+
+14. Final Notes
+This project teaches:
+ - Linux navigation
+ - Permissions
+ - Apache hosting
+ - Automation using cron
+ - SSH + SCP
+ - Real DevOps workflow
+ - PHP basics
+ - File structure organization
+ - Documentation writing
+

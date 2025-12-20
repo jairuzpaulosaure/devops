@@ -1,0 +1,10 @@
+Journal Entry - Tuesday, December 16, 2025
+Week: 7
+Message: Stay consistent, keep learning!
+Learnings: Learn Git logs
+
+
+syntax
+- git status
+- git log
+- git restore, git rm

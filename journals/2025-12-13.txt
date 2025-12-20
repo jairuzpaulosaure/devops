@@ -1,0 +1,19 @@
+Journal Entry - Saturday, December 13, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: Networking diagnose practice
+
+DNS Test:
+Command: dig google.com
+Result: NOERROR, IP returned
+Conclusion: DNS resolutin working
+
+Port Test
+Command: ss -tuln | grep :80 (HTTPS) , ss -tuln | grep 22 (SSH)
+Result: Port 80 LISTEN
+Conclusion: Web service running
+
+Route Test
+Command: traceroute google.com
+Result: Multiple hops reached destination
+Conclusion: Routing path normal

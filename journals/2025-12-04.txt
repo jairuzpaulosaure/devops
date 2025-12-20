@@ -1,0 +1,17 @@
+Journal Entry - Thursday, December 04, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: Today I learned about the Ports and Protocols
+
+Most Common use Ports
+
+22			SSH (remote server login)
+80			HTTP (unsecured websites)
+8080			HTTP (alternative for 80) - for apps/dev servers
+53			DNS (domain - IP)
+443			HTTPS (secured websites)
+23/587			SMTP (sending emails)
+3306			MySQL Database (database)
+5432			PostreSQL (database)
+6379			Redis (client server communication) - cache
+5000/3000		Web dev (node/python)

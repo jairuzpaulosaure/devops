@@ -1,0 +1,9 @@
+Journal Entry - Friday, December 12, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: Today I have learned about Routing Table + ARP
+
+ip route
+
+old arp style		= arp -a
+modern linux command	= ip neigh

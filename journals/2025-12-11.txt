@@ -1,0 +1,15 @@
+Journal Entry - Thursday, December 11, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: Today I have learned the NMAP basics
+
+sudo apt install nmap -y = to install the nmap
+
+syntax: nmap localhost
+
+meaning of common Nmap results
+open		service is running + reachable
+closed		no service is listening
+filtered	firewall/UFW is blocking it
+unfiltered	reachable pero uncertain
+open|filtered	Nmap cannot tell (firewall?)

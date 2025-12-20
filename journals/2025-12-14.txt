@@ -1,0 +1,26 @@
+Journal Entry - Sunday, December 14, 2025
+Week: 6
+Message: Stay consistent, keep learning!
+Learnings:
+
+Mini Network Quiz (Practice)
+
+1. DNS Check
+
+nslookup <doman>
+
+2. Port Check
+
+ss -tuln
+
+3. Connectivity Test
+
+ping -c 4 google.com
+
+4. Route Check
+
+ip route
+
+5. Port Scan
+
+nmap localhost

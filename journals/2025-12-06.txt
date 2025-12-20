@@ -1,0 +1,26 @@
+Journal Entry - Saturday, December 06, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: During this day, I have learned about the HTTP and HTTPS
+
+Notes:
+
+HTTP  -> 80
+HTTPS -> 443
+
+
+Common Status Codes
+Code			Meaning			Notes
+200 ok 			Success			Working normally
+301/302			Redirect		Lipat page
+400			Bad Request		Mali yung request
+401			Unauthorized		Walang access token
+403			Forbidden		Bawal
+404			Not found		File/page missing
+500			Internal Server Error	Mali sa server
+502			Bad Gateway		Proxy issue
+503			Service Unavailable	Down si server
+
+Syntax
+curl -I https://google.com
+

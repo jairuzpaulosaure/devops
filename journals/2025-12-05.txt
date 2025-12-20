@@ -1,0 +1,12 @@
+Journal Entry - Friday, December 05, 2025
+Week: 5
+Message: Stay consistent, keep learning!
+Learnings: During this Day 5 daily learnings, I have learned the dig and nslookup
+
+Syntax
+
+Command			Type			Result
+dig google.com		Forward lookup		A record (IPv4)
+nslookup google.com	Forward lookup		IPv4 + IPv6
+dig 3.27.x.x		Direct IP lookup	Returns IP as A record
+nslookup 3.27.x.x	Reverse lookup		PTR -> EC2 hostname

@@ -1,0 +1,37 @@
+Journal Entry - Wednesday, December 17, 2025
+Week: 7
+Message: Stay consistent, keep learning!
+Learnings: Today I learned the git branches
+
+
+syntax
+
+note: adding branch should be in the main tree!!!
+
+git branch <name of the new branch>
+git branch dev
+
+git checkout <name of the branch> - this is for changing /switching branches
+git checkout dev (old syntax)
+git switch dev (modern syntax)
+
+git add <name of the file that you want to add in the branch>
+git add test.txt
+
+git add <name of the folder that you want to add in the branch>
+git add journals/
+
+git status - checking of the status of your git
+git branch - showing the list of the branches
+
+if the git is just new, the main branch is name as "master". to renam it as main do this syntax
+git branch -m master <new name - which is should be the main>
+git branch -m master main
+
+
+to list the current file inside a branch
+git ls-tree -r --name-only <name of the branch>
+git ls-tree -r --name-only dev
+
+git log - to check the logs
+git show <commit-hash>
