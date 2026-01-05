@@ -1,3 +1,9 @@
 Journal Entry - Friday, December 26, 2025
 Week: 8
 Message: Stay consistent, keep learning!
+Learnings:
+
+1. Create Pull Requset (PR)
+2. Review
+3. Approve
+4. Merge
