@@ -1,3 +1,21 @@
 Journal Entry - Sunday, December 28, 2025
 Week: 9
 Message: Stay consistent, keep learning!
+Learnings
+
+In summary for my documentation.
+
+I have learned to do the daily tasks
+
+1. make sure that you are in the dev branch
+2. do the daily training
+3. sudo nano - created the daily learning notes
+4. do the git status
+5. git add
+6. git commit
+7. git push origin dev 
+8. git switch main
+9. git merge dev 
+10. git push origin main
+11. git tag
+12. git push --tags
