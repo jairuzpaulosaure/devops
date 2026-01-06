@@ -1,3 +1,11 @@
 Journal Entry - Friday, January 02, 2026
 Week: 9
 Message: Stay consistent, keep learning!
+Learnings:
+
+ - AWS Console layout
+ - What IAM controls
+ - What EC2 is used for
+ - What S3 is used for
+ - Where money is tracked
+

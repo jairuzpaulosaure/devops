@@ -1,0 +1,9 @@
+Journal Entry - Tuesday, January 06, 2026
+Week: 10
+Message: Stay consistent, keep learning!
+Learnings
+
+ - EC2 lifecycle
+ - Billing impact
+ - safe vs dangerous actions
+ - real-world usage

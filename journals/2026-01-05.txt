@@ -1,3 +1,12 @@
 Journal Entry - Monday, January 05, 2026
 Week: 10
 Message: Stay consistent, keep learning!
+Learnings:
+
+
+ - What a key pair is
+ - Why .pem is important
+ - Why AWS won't re-download keys
+ - How to safely add a new key
+ - Real DevOps SSH workflow
+

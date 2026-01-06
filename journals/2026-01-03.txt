@@ -1,3 +1,11 @@
 Journal Entry - Saturday, January 03, 2026
 Week: 10
 Message: Stay consistent, keep learning!
+Learnings:
+
+ - EC2 = virtual server
+ - AMI = OS template
+ - Instance type = server size
+ - t3.micro = best free Tier choice
+ - EC2 is elastic and disposable
+

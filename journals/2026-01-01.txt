@@ -1,3 +1,11 @@
 Journal Entry - Thursday, January 01, 2026
 Week: 9
 Message: Stay consistent, keep learning!
+Learnings:
+
+Day 1 - January 1, 2026 (AWS Overview)
+
+Learned what AWS is and why DevOps relies on it.
+Understood Regions and Availability Zones.
+Reviewed AWS Free Tier and billing risks.
+Checked AWS Console and region selection.
