@@ -1,0 +1,17 @@
+Journal Entry - Wednesday, January 07, 2026
+Week: 10
+Message: Stay consistent, keep learning!
+Learnings:
+
+EC2 Flow:
+- Choose AMI (OS)
+- Choose instance type (CPU/RAM)
+- Select key pair(SSH)
+- Configure security group (firewall)
+- Launch instance
+- Pending -> Running
+- Connect via SSH
+- Running = billed
+- Stop to save cost
+- Terminate to delete forever
+
