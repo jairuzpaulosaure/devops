@@ -1,0 +1,16 @@
+Journal Entry - Thursday, January 08, 2026
+Week: 10
+Message: Stay consistent, keep learning!
+Learnings:
+
+SSH:
+ - Secure remote login protocol
+ - Uses key-based authentication
+ - AWS disables password login
+ - Default port: 22
+
+SSH Flow:
+ - Private key on client
+ - Public key on EC2
+ - Port 22 must be open
+ - Security Group controls access
