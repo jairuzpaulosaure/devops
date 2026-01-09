@@ -1,0 +1,11 @@
+Journal Entry - Friday, January 09, 2026
+Week: 10
+Message: Stay consistent, keep learning!
+Learnings:
+
+ - SSH uses key-based authentication
+ - Port 22 must be open in Security Group
+ - Username depends on AMI
+ - ssh -v helps debug
+ - Security Group != Firewall
+ - ~/.ssh/config simplifies access
