@@ -1,0 +1,18 @@
+Journal Entry - Sunday, January 11, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+
+Topic: Security Group Rules & IP Restrictions
+
+Key Learnings:
+
+ - Security Group act as EC2 firewalls
+ - 0.0.0.0/0 allows global access and is risky
+ - /32 restricts access to one public IP
+ - AWS "My IP" auto-detects current network IP
+ - multiple IPs can be safely allowed via multiple rules
+
+DevOps Insights:
+ Secure access should be explicit, not convenient.

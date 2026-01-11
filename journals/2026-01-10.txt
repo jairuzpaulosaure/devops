@@ -1,0 +1,11 @@
+Journal Entry - Saturday, January 10, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+ - Security Groups are AWS firewalls
+ - Inbound = incoming traffic
+ - Outbound = outgoing traffic
+ - SSH should be lomited to your IP
+ - /32 means single IP 
+ - SGs are stateful
