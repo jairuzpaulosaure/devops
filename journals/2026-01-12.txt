@@ -1,0 +1,16 @@
+Journal Entry - Monday, January 12, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: SSH Troubleshooting
+
+Key Learnings:
+ - SSH failures fall into patterns
+ - Timeout = network/security issue
+ - Permission denied = key or user issue
+ - .pem must be chmod 400
+ - Correct reion & instance state are critical
+
+DevOps Insight:
+ - "If SSH fails, check infrastructure - not panic."
