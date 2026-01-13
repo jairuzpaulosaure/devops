@@ -1,0 +1,19 @@
+Journal Entry - Tuesday, January 13, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Installing Packages on EC2
+
+Key Learnings:
+ - Linux uses package managers
+ - sudo grants admin access
+ - Web servers run as services
+ - systemctl manages services
+ - App availabilty = service + firewall
+
+Command Highlights:
+ - yum / apt update
+ - install nginx/httpd
+ - systemcftl start | enable | status
+
