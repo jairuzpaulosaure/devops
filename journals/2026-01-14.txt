@@ -1,0 +1,16 @@
+Journal Entry - Wednesday, January 14, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+
+Topic: Review & Recovery Practice
+
+Key Learnings:
+ - SSH access depends on keys + IP + user
+ - Restart != stop
+ - Services may not auto-start without enable
+ - Web access depends on both service + 5G
+
+Confidence Gained:
+ - I can reconnect and recover without panic.
