@@ -1,0 +1,15 @@
+Journal Entry - Thursday, January 15, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Amazon S3 Basics
+
+Key Learnings:
+ - S3 is object storage
+ - Buckets hold objects
+ - Objects use keys, not folders
+ - Designed for scale + durability
+
+DevOps Insight:
+ - S3 replaces servers for storage

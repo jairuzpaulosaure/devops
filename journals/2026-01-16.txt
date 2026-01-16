@@ -1,0 +1,16 @@
+Journal Entry - Friday, January 16, 2026
+Week: 11
+Message: Stay consistent, keep learning!
+Learnings:
+
+
+Topic: S3 Bucket Creation
+
+Key Learnings:
+ - Bucket names are globally unique
+ - Naming rules are strict
+ - Region impacts performance + cost
+ - Default security is PRIVATE
+
+DevOps Insight:
+ Buckets are global names with regional data
