@@ -1,0 +1,15 @@
+Journal Entry - Saturday, January 17, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Uploading Files to S3
+
+Key Learnings:
+ - S3 uses objects, not real folders
+ - Folder structure is simulated via prefixes
+ - Console upload is easiest for beginners
+ - Default S3 security is private
+
+ DevOps Insight:
+ - S3 folders are a naming illusion - security is object-based.
