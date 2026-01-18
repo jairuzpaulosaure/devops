@@ -1,0 +1,15 @@
+Journal Entry - Sunday, January 18, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: S3 Permissions & Bucket Policies
+
+Key Learnings:
+ - S3 is private by default
+ - Public access is dangerous if misconfigured
+ - Block Public Access is the main safeguard
+ - bucket policies define access using JSON
+
+DevOps Insight
+ - Security in S3 is intentional - nothing is public unless you break the rules.
