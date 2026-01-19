@@ -1,0 +1,15 @@
+Journal Entry - Monday, January 19, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: S3 Static Website Hosting
+
+Key Learnings:
+- S3 can host static websites
+- index.html is the default entry file
+- Public access must be explicitly allowed
+- Bucket policies control read access
+
+DevOps Insight
+- S3 is storage first, web hosting second - security always comes first.
