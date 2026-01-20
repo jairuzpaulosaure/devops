@@ -1,0 +1,15 @@
+Journal Entry - Tuesday, January 20, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+
+Topic: S3 Access Control
+
+Key Learnings:
+- Block Public Access is a safety net
+- Public access must be intentional
+- Bucket policies control fine-grained access
+
+Rule to Remember:
+Private by default. Public only when required.
