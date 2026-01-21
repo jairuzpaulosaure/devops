@@ -1,0 +1,15 @@
+Journal Entry - Wednesday, January 21, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Hybrid S3 + CloudFront (OAC)
+
+Key Learnings:
+- Never expose S3 directly in production
+- CloudFront acts as a secure public gateway
+- OAC replaces OAI and uses IAM trust
+
+Golden Rule:
+- Public access should never touch your storage directly
+
