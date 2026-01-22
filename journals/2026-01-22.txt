@@ -1,0 +1,16 @@
+Journal Entry - Thursday, January 22, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Project Planning
+
+Decision Made:
+- Hosting: S3 + CloudFront
+- Project type: Static website
+- Scope: Simple Hello World
+
+DevOps Mindset Learned:
+- Plan before building
+- Choose the simplest correct solution
+- Match tool to problem
