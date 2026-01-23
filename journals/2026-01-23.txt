@@ -1,0 +1,19 @@
+Journal Entry - Friday, January 23, 2026
+Week: 12
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: S3 Static Website Deep Practice
+
+What I Did:
+- Crated/refined index.html
+- Tested locally before upload
+- Uploaded via Console / CLI
+- Inspected metadata & permissions
+- Intentionally broke & fixed access
+
+Key Learnings:
+- S3 is object-based, not server-based
+- Public access is a configuration decision
+- Small misconfigurations = site down
+
