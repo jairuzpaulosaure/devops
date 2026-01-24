@@ -1,0 +1,15 @@
+Journal Entry - Saturday, January 24, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: EC2 Web Hosting
+
+What I learned:
+- Difference between EC2 hosting vs S3 hosting
+- How web servers serve files
+- Where HTML files actually live on Linux
+
+Key Insight:
+- EC2 = full control, full responsibility
+
