@@ -1,0 +1,13 @@
+Journal Entry - Sunday, January 25, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings: 
+
+Topic: EC2 Security Groups
+
+Key Actions:
+- Opened port 80 (HTTP)
+- Allowed public web access
+
+Key Insight:
+- Infrastructure security starts at the network level

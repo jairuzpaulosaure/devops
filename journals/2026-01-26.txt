@@ -1,0 +1,16 @@
+Journal Entry - Monday, January 26, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: EC2 Website Testing
+
+Validated:
+- Public IP access
+- HTTP port allowed
+- Web server running
+
+Troubleshooting Skills Gained:
+- SG
+- Service status
+- File placement
