@@ -1,0 +1,16 @@
+Journal Entry - Wednesday, January 28, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings:
+
+Focus: Documentation & Reflection
+
+Key Output:
+- README or Docs folder
+- Screenshots as proof
+- Clear lessons learned
+
+Why it Matters:
+- Turns learning into evidence
+- Builds portfolio confidence
+- Prepares you for real DevOps work

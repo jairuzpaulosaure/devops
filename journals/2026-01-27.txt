@@ -1,0 +1,16 @@
+Journal Entry - Tuesday, January 27, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: S3 Static Website (Advanced)
+
+Confirmed Skills:
+- Static hosting setup
+- Public access logic
+- EC2 vs S3 decision-making
+
+New Learnings:
+- Error handling
+- Versioning basics
+- Production folder structure
