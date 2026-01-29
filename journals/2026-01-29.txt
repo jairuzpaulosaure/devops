@@ -1,0 +1,11 @@
+Journal Entry - Thursday, January 29, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings:
+
+Focus: Cleanup + cost awareness
+- Verified EC2 instances -> stopped/terminated
+- Checked S3 buckets and IAM access
+- Learned the difference between stopping vs terminating EC2
+- Avoided unexpected Free Tier charges
+
