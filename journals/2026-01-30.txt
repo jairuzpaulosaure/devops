@@ -1,0 +1,9 @@
+Journal Entry - Friday, January 30, 2026
+Week: 13
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Reviewed all AWS servies learned this month
+- Verified EC2 instance creation, SSH connection, security groups
+- Practiced S3 uploads and static website hosting
+- Learned how to avoid unnecessary charges by stopping or terminating EC2
