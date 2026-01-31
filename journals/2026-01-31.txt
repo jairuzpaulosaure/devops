@@ -1,0 +1,10 @@
+Journal Entry - Saturday, January 31, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Completed January AWS fundamentals
+- Identified next skills: IAM, AWS CLI, Terraform
+- Transitioning from manual setup to automation mindset
+- Ready for real DevOps workflows
+
