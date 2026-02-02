@@ -1,0 +1,9 @@
+Journal Entry - Monday, February 02, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings
+
+- Created IAM user
+- Learned console vs programmatic access
+- Understood access keys and passwords
+- Root account should never be used daily

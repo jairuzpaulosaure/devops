@@ -1,0 +1,9 @@
+Journal Entry - Sunday, February 01, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Learned IAM purpose and importance
+- Understood Users and Groups vs Roles
+- Root account should not be used daily
+- IAM is the security backbone of AWS
