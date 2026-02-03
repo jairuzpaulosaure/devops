@@ -1,0 +1,10 @@
+Journal Entry - Tuesday, February 03, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Created IAM group
+- Attached AWS managed policies
+- Added user to group
+- Learned why groups are better than user-level permissions
+
