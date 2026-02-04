@@ -1,0 +1,10 @@
+Journal Entry - Wednesday, February 04, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Learned IAM policy JSON structure
+- Understood Allow vs Deny precedence
+- Created or reviewed managed/custom policy
+- Learned why explicit deny is powerful
+
