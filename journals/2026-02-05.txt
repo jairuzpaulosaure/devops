@@ -1,0 +1,10 @@
+Journal Entry - Thursday, February 05, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Learned IAM Role purpose
+- Compared user credentials vs roles
+- Created EC2 role
+- Attached role to EC2
+- Verified secure access to AWS services
