@@ -1,0 +1,11 @@
+Journal Entry - Friday, February 06, 2026
+Week: 14
+Message: Stay consistent, keep learning!
+Learnings:
+
+Focus: Hands-on IAM role
+- Created EC2 IAM role
+- Attached AmazonS3ReadOnlyAccess policy
+- Attached role to EC2 instance
+- Verified access using aws s3 ls
+- Learned why roles are safer than access keys
