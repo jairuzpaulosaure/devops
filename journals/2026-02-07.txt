@@ -1,0 +1,10 @@
+Journal Entry - Saturday, February 07, 2026
+Week: 15
+Message: Stay consistent, keep learning!
+Learnings
+
+- Disabled daily root ussage
+- Enabled MFA for root and IAM user
+- Understood why MFA is mandatory in production
+- Completed IAM Week 1 securely
+
