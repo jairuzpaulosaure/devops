@@ -1,0 +1,15 @@
+Journal Entry - Monday, February 09, 2026
+Week: 15
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: CIDR & IP Addressing
+
+Key Learnings:
+- CIDR defines network size (/16, 24, 32)
+- VPCs use larger CIDRS; subnets use smaller ones
+- Private IPS are internal only
+- Public IPs enable internet access
+
+DevOps Insight:
+- Design IP ranges first - everything else depends on it.

@@ -1,0 +1,10 @@
+Journal Entry - Sunday, February 08, 2026
+Week: 15
+Message: Stay consistent, keep learning!
+Learnings:
+
+- Learned what a VPC is
+- Understood default vs custom VPC
+- VPC = private cloud network
+- Default VPC is for learning, custom VPC for production
+
