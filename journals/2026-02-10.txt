@@ -1,0 +1,15 @@
+Journal Entry - Tuesday, February 10, 2026
+Week: 15
+Message: Stay consistent, keep learning!
+Learnings
+
+Topic: Subnets (Public vs Private)
+
+Key Learnings:
+- Sbunets divide a VPC into smaller networks
+- Public subnet = route to Internet Gateway
+- Private subnet = no direct internet access
+- Security and architecture depend on subnet design
+
+DevOps Insight:
+"Public exposes, private protects"
