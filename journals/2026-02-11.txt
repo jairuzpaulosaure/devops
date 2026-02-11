@@ -1,0 +1,15 @@
+Journal Entry - Wednesday, February 11, 2026
+Week: 15
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Internet Gateway
+
+Key Learnings:
+- IGW connects VPC to the internet
+- Required for public subnets
+- Route table decides traffic flow
+- EC2 needs IGW + public IP + SG rules
+
+DevOps Insight:
+- No IGW, no internet - even if the instance is running
