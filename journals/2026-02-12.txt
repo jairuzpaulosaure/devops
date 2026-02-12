@@ -1,0 +1,15 @@
+Journal Entry - Thursday, February 12, 2026
+Week: 15
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Route Tables
+
+Key Learnings:
+- Route tables control traffic flow
+- 0.0.0/0 means all internet traffic
+- subnets must be associated to a route table
+- Public vs private depends on route table
+
+DevOps Insight
+- A subnet is public only if its route table says so
