@@ -1,0 +1,16 @@
+Journal Entry - Saturday, February 14, 2026
+Week: 16
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: VPC Review
+
+Key Learnings:
+- VPC is the base network in AWS
+- Public vs private is decided by route tables
+- IGW enables internet access
+- Security Groups protect instances
+- NACLs protect subnets
+
+DevOps Insight
+If networking is wrong, nothing else works
