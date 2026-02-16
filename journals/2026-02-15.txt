@@ -1,0 +1,18 @@
+Journal Entry - Sunday, February 15, 2026
+Week: 16
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Custom VPC Setup
+
+Key Steps:
+1. Manually create a VPC in AWS Console
+2. Choose a unique CIDR (e.g. 10.0.0.0/16)
+3. Add public + private subnets
+4. Attach Internet Gateway
+5. Set route tables for correct traffic flow
+
+DevOps Insight:
+A custom VPC gives you full control over your cloud network - exactly how real production
+environments are built.
+

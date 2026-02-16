@@ -1,0 +1,20 @@
+Journal Entry - Monday, February 16, 2026
+Week: 16
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Creating Public & Private Subnets
+
+What I did:
+-Created 2 subnets inside custom VPC
+ - Public 10.0.1.0/24
+ - Private 10.0.2.0/24
+
+Key Learnings:
+- Subnets must fit inside VPC CIDR
+- Public vs private distinction is based on routing
+- Instances in public subnet can get internet via IGW
+- Private subnet is isolated unless NAT gateway added later
+
+DevOps Insight:
+- Subnets shape security zones - public for clients, private for internals.
