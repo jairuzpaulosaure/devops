@@ -1,0 +1,20 @@
+Journal Entry - Tuesday, February 17, 2026
+Week: 16
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: Launch EC2 in Public Subnet
+
+What I did:
+- Launched EC2 inside custom VPC
+- Selected public subnet
+- Enabled auto-assign public IP
+- Attached security group with SSH & HTTP
+
+Key Learnings:
+- Public subnet =! public access without public IP
+- Security Group control instance traffic
+- Correct networking is critical for connectivity
+
+DevOps Insight:
+- Most EC2 issues are not networking mistakes - not server problems.

@@ -1,0 +1,19 @@
+Journal Entry - Wednesday, February 18, 2026
+Week: 16
+Message: Stay consistent, keep learning!
+Learnings:
+
+Topic: SSH to EC2
+
+What I Practiced:
+- Connected via SSH
+- Verified inbound rules
+- Tested failure scenarios
+
+Key Learnings:
+- Security Groups control access
+- SSH required correct key + username
+- Networking mistakes cause most connection errors
+
+DevOps Insight
+- Always troubleshoot from network -> security -> server
